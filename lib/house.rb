@@ -21,7 +21,7 @@ class House
           room_cat << room
       end
     end
-    room_cat.flatten #so we dont get an array inside of array
+    room_cat.flatten
   end
 
   def area
