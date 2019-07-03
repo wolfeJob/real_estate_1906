@@ -25,9 +25,9 @@ class House
   end
 
   def area
-  #some calculation for house_area
-  house_area = 1900
-  house_area
+    #some calculation for house_area
+    house_area = 1900
+    house_area
   end
 
   def price_per_square_foot
