@@ -19,6 +19,5 @@ class RoomTest < Minitest::Test
   def test_room_area_function
     assert_equal 130, @room.area
   end
-
   
 end #end test class
