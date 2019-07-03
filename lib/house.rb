@@ -7,7 +7,7 @@ class House
   end
 
   def price
-    @price.tr('$','''')
+    @price.tr('$','''').to_i
   end
 
   def add_room(room)
