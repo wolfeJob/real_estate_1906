@@ -33,4 +33,8 @@ class House
   def price_per_square_foot
   end
 
+  def rooms_by_category
+
+  end 
+
 end #end class House

@@ -53,4 +53,8 @@ class HouseTest < Minitest::Test
     assert_equal 1900, @house.area
   end
 
+  def test_hash_for_rooms_by_category
+
+  end 
+
 end #end house test
